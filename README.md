@@ -42,7 +42,7 @@ The project is evaluated using the **Quadratic Weighted Kappa** metric, which me
 ### 1. Clone the repository
 First, clone this repository to your local machine:
 ```bash
-git clone [https://github.com/karimorozova13/dl_final_project.git](https://github.com/karimorozova13/pet-adoption-speed-prediction.git)
+git clone https://github.com/karimorozova13/pet-adoption-speed-prediction.git
 cd pet-adoption-speed-prediction
 ```
 ### 2. Install dependencies
